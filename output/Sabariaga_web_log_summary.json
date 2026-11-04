@@ -1,0 +1,13 @@
+{
+    "student": "Sabariaga",
+    "student_id": "TUPM-26-1862",
+    "records_processed": 125,
+    "target_status_class": "4xx",
+    "matching_records": 0,
+    "status_counts": {
+        "200": 95,
+        "302": 19,
+        "304": 11
+    },
+    "top_5_urls": []
+}

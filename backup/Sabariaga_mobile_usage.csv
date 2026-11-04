@@ -1,0 +1,112 @@
+User ID,Device Model,Operating System,App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Number of Apps Installed,Data Usage (MB/day),Age,Gender,User Behavior Class
+2,OnePlus 9,Android,268,4.7,1331,42,944,47,Female,3
+4,Google Pixel 5,Android,239,4.8,1676,56,871,20,Male,3
+12,OnePlus 9,Android,215,5.5,1690,47,641,24,Male,3
+14,Xiaomi Mi 11,Android,215,4.9,1662,43,857,43,Male,3
+24,Google Pixel 5,Android,292,5.6,1401,46,949,37,Female,3
+25,OnePlus 9,Android,216,4.0,1711,59,748,58,Male,3
+31,Xiaomi Mi 11,Android,260,6.0,1361,44,889,37,Female,3
+32,Xiaomi Mi 11,Android,197,4.6,1660,59,975,25,Male,3
+33,Google Pixel 5,Android,278,4.7,1484,55,917,21,Male,3
+41,Xiaomi Mi 11,Android,240,4.7,1464,52,708,56,Female,3
+52,Xiaomi Mi 11,Android,245,5.9,1243,52,885,29,Male,3
+76,Xiaomi Mi 11,Android,229,5.7,1305,43,985,23,Female,3
+80,Google Pixel 5,Android,230,5.7,1254,52,989,34,Female,3
+85,Google Pixel 5,Android,223,4.5,1311,56,695,33,Female,3
+92,Google Pixel 5,Android,291,4.1,1474,46,827,32,Female,3
+100,OnePlus 9,Android,225,5.5,1526,44,875,50,Female,3
+102,OnePlus 9,Android,183,4.1,1210,45,738,19,Male,3
+104,Xiaomi Mi 11,Android,274,4.2,1781,52,934,28,Male,3
+109,Xiaomi Mi 11,Android,187,5.5,1754,55,711,50,Female,3
+110,OnePlus 9,Android,216,6.0,1641,41,889,39,Female,3
+113,Google Pixel 5,Android,295,5.1,1483,45,748,27,Female,3
+125,Google Pixel 5,Android,227,5.1,1702,57,714,21,Male,3
+128,Google Pixel 5,Android,252,4.2,1439,45,667,50,Female,3
+138,Xiaomi Mi 11,Android,237,4.5,1368,42,868,24,Female,3
+141,Xiaomi Mi 11,Android,219,5.2,1510,42,655,50,Female,3
+149,OnePlus 9,Android,228,4.2,1677,58,823,56,Male,3
+165,Xiaomi Mi 11,Android,278,4.8,1238,48,851,43,Female,3
+169,Google Pixel 5,Android,225,5.4,1370,44,791,55,Female,3
+176,Google Pixel 5,Android,279,5.2,1660,47,629,50,Female,3
+177,Xiaomi Mi 11,Android,255,5.4,1738,42,826,21,Male,3
+178,Samsung Galaxy S21,Android,193,5.7,1471,51,972,31,Female,3
+179,Xiaomi Mi 11,Android,207,5.7,1582,52,692,38,Male,3
+196,Google Pixel 5,Android,202,4.7,1512,49,659,45,Female,3
+197,OnePlus 9,Android,215,4.4,1407,41,991,47,Male,3
+210,Google Pixel 5,Android,278,4.6,1385,47,823,40,Female,3
+246,Samsung Galaxy S21,Android,202,5.0,1542,45,844,29,Male,3
+258,Xiaomi Mi 11,Android,272,5.0,1655,45,686,19,Female,3
+259,Xiaomi Mi 11,Android,201,4.0,1791,50,914,18,Male,3
+269,Samsung Galaxy S21,Android,208,4.7,1642,45,861,55,Male,3
+272,OnePlus 9,Android,284,4.2,1360,56,888,51,Male,3
+277,Xiaomi Mi 11,Android,269,5.9,1666,42,629,32,Female,3
+278,Google Pixel 5,Android,230,4.4,1607,52,878,54,Male,3
+288,Xiaomi Mi 11,Android,211,4.0,1519,54,811,29,Female,3
+294,Xiaomi Mi 11,Android,226,4.5,1781,45,649,27,Female,3
+307,OnePlus 9,Android,243,5.0,1232,47,877,43,Male,3
+311,Samsung Galaxy S21,Android,230,4.2,1507,51,868,25,Female,3
+317,OnePlus 9,Android,299,4.3,1737,43,953,42,Female,3
+322,Google Pixel 5,Android,274,6.0,1489,56,666,57,Female,3
+326,OnePlus 9,Android,203,4.3,1554,54,638,25,Female,3
+327,Samsung Galaxy S21,Android,199,6.0,1707,57,881,55,Male,3
+331,Google Pixel 5,Android,233,4.6,1534,49,796,21,Female,3
+333,OnePlus 9,Android,191,6.0,1762,45,904,54,Male,3
+353,Google Pixel 5,Android,225,4.6,1230,52,954,20,Female,3
+360,Samsung Galaxy S21,Android,230,4.6,1325,55,845,54,Female,3
+413,OnePlus 9,Android,257,5.1,1692,46,769,52,Female,3
+417,Xiaomi Mi 11,Android,264,5.1,1293,52,737,27,Female,3
+419,Xiaomi Mi 11,Android,202,4.9,1549,43,964,27,Female,3
+425,OnePlus 9,Android,201,5.0,1482,59,709,24,Male,3
+437,OnePlus 9,Android,221,4.4,1341,46,862,20,Male,3
+441,Google Pixel 5,Android,260,5.7,1725,56,920,36,Female,3
+442,Samsung Galaxy S21,Android,223,5.7,1295,44,751,39,Male,3
+448,Samsung Galaxy S21,Android,234,5.2,1604,58,919,58,Male,3
+458,OnePlus 9,Android,234,4.7,1707,55,871,46,Male,3
+463,Samsung Galaxy S21,Android,216,5.9,1789,54,987,55,Male,3
+466,OnePlus 9,Android,265,4.8,1770,51,723,55,Female,3
+468,Google Pixel 5,Android,238,4.0,1414,47,661,41,Female,3
+471,Samsung Galaxy S21,Android,248,4.6,1396,52,883,40,Male,3
+475,Xiaomi Mi 11,Android,210,4.9,1657,55,765,49,Female,3
+479,OnePlus 9,Android,258,4.3,1759,59,718,41,Female,3
+480,Samsung Galaxy S21,Android,189,4.8,1681,59,795,57,Male,3
+499,Google Pixel 5,Android,274,4.5,1356,54,869,53,Male,3
+504,Google Pixel 5,Android,200,5.8,1291,50,965,52,Male,3
+507,Xiaomi Mi 11,Android,238,5.1,1408,45,941,27,Male,3
+509,Google Pixel 5,Android,267,5.9,1740,45,791,22,Male,3
+511,Google Pixel 5,Android,241,5.3,1767,58,976,38,Female,3
+525,Samsung Galaxy S21,Android,272,5.2,1390,45,792,57,Female,3
+526,Samsung Galaxy S21,Android,224,4.5,1646,57,665,59,Male,3
+530,Google Pixel 5,Android,228,4.8,1639,47,796,42,Female,3
+534,Xiaomi Mi 11,Android,190,4.7,1276,57,915,22,Female,3
+537,Samsung Galaxy S21,Android,289,5.9,1528,48,915,30,Male,3
+543,Google Pixel 5,Android,242,5.4,1307,48,642,28,Male,3
+544,Samsung Galaxy S21,Android,275,5.5,1616,48,656,55,Male,3
+547,OnePlus 9,Android,236,4.6,1750,45,971,21,Female,3
+556,Xiaomi Mi 11,Android,201,4.9,1633,41,972,32,Female,3
+558,Samsung Galaxy S21,Android,198,4.2,1392,43,640,27,Male,3
+565,Xiaomi Mi 11,Android,290,4.4,1272,55,910,44,Male,3
+569,Google Pixel 5,Android,291,5.3,1537,43,700,49,Female,3
+573,OnePlus 9,Android,211,5.9,1757,42,864,56,Female,3
+579,OnePlus 9,Android,257,6.0,1715,49,916,40,Female,3
+587,Xiaomi Mi 11,Android,197,4.4,1665,44,608,43,Female,3
+594,Samsung Galaxy S21,Android,217,4.2,1500,42,677,26,Female,3
+600,Samsung Galaxy S21,Android,192,4.3,1382,42,905,47,Female,3
+605,OnePlus 9,Android,182,5.3,1278,42,885,54,Female,3
+608,Xiaomi Mi 11,Android,203,4.0,1323,56,787,21,Male,3
+609,Xiaomi Mi 11,Android,258,4.9,1596,56,937,40,Female,3
+617,OnePlus 9,Android,288,5.4,1476,49,767,36,Female,3
+618,Google Pixel 5,Android,225,5.6,1388,55,965,36,Female,3
+620,Samsung Galaxy S21,Android,292,4.2,1407,54,867,59,Male,3
+632,Samsung Galaxy S21,Android,216,5.1,1483,54,977,45,Female,3
+645,Google Pixel 5,Android,186,4.8,1494,53,949,20,Female,3
+650,Xiaomi Mi 11,Android,186,5.4,1627,58,790,31,Female,3
+653,Xiaomi Mi 11,Android,206,5.2,1632,47,694,30,Male,3
+657,Google Pixel 5,Android,262,5.6,1489,59,628,54,Female,3
+658,Xiaomi Mi 11,Android,278,5.3,1368,56,894,40,Female,3
+668,Samsung Galaxy S21,Android,205,5.5,1699,49,729,36,Male,3
+679,Google Pixel 5,Android,298,4.6,1525,59,814,36,Female,3
+683,Xiaomi Mi 11,Android,190,5.5,1718,58,815,42,Male,3
+685,Google Pixel 5,Android,218,4.0,1221,47,822,25,Male,3
+689,Google Pixel 5,Android,261,4.9,1589,56,824,52,Female,3
+691,Google Pixel 5,Android,195,5.7,1447,48,679,30,Male,3
+700,OnePlus 9,Android,212,5.4,1306,49,828,23,Female,3

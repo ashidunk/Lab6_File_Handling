@@ -1,0 +1,10 @@
+{
+    "target_operating_system": "Android",
+    "target_behavior_class": 3,
+    "total_records": 700,
+    "matching_os_records": 554,
+    "selected_records": 111,
+    "average_battery_drain": 1521.69,
+    "average_data_usage": 820.26,
+    "count_verified": true
+}
