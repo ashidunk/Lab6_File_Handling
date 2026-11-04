@@ -1,0 +1,23 @@
+CYBERSECURITY INCIDENT REPORT
+Student: Sabariaga
+Student ID: TUPM-26-1862
+Target Year: 2017
+Total Dataset Records: 3000
+Incidents in Target Year: 319
+Total Financial Loss: 16261.68 million USD
+Average Financial Loss: 50.98 million USD
+
+ATTACK TYPE COUNTS
+Man-in-the-Middle: 58
+DDoS: 58
+Phishing: 64
+SQL Injection: 49
+Malware: 46
+Ransomware: 44
+
+FIVE COSTLIEST INCIDENTS
+Australia - SQL Injection - 99.99 million USD
+Brazil - Malware - 99.22 million USD
+UK - SQL Injection - 98.75 million USD
+USA - DDoS - 98.73 million USD
+Germany - DDoS - 98.61 million USD
