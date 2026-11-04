@@ -1,0 +1,5 @@
+Last Name: Sabariaga
+Student ID: TUPM-26-1862
+Seed digit: 2
+ID Sum: 25
+Verification value: 36
